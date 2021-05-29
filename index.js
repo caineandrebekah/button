@@ -1,1 +1,1 @@
-alert("Hello, World!");
+alert("I came from a package!");
