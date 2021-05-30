@@ -4,6 +4,10 @@
 
 https://github.com/cainenielsen/button
 
+## NPM Listing
+
+https://www.npmjs.com/package/@cainenielsen/button
+
 ## Installation
 Run:
 
@@ -13,6 +17,6 @@ Or
 
 `npm install https://github.com/cainenielsen/button`
 
-- *Do not include the @ in the name, as this limits the scope to NPM's pacakge registry.*
+- *You can also choose to download this package from GitHub by removing the @ before the name.*
 
 - *You can use the @latest tag to reference the latest version.*
