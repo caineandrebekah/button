@@ -9,6 +9,6 @@
   "author": "Caine Nielsen",
   "license": "ISC",
   "dependencies": {
-    "@cainenielsen/package-template": "^1.0.2"
+    "@cainenielsen/package-template": "^1.0.3"
   }
 }
